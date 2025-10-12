@@ -3,6 +3,12 @@
 ### Project Overview
 An interactive console game implementation focusing on method creation and parameter handling in C#. This project extends the Microsoft Learn starter code with additional functionality and game mechanics.
 
+> [!IMPORTANT]
+> This project is part of a Freecodecamp free course on C# fundamentals
+- It was done by me with little AI assistance throughout the process
+- Super simple console game to grasp the flow of C#
+- Educational purposes only
+
 ### Active Development Notice
 > The program is currently under active development, with ongoing bug fixes. Contributions and suggestions are welcome in the repository's Issues section, and all viable solutions will be reviewed.
 
